@@ -13,7 +13,7 @@
 [Blog]: https://pratjz.wordpress.com/
 
 ---
-![Linkedin Follow](https://img.shields.io/badge/LinkedIn-905-blue?style=social&logo=linkedin)
+![Linkedin Follow](https://img.shields.io/linkedin/follow/pratjz?label=Follow&style=social)](https://www.linkedin.com/in/pratjz/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/pratjz?label=Follow&style=social)](https://twitter.com/pratjz)
 
 
