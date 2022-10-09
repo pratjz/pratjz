@@ -12,8 +12,6 @@ I am Prateek Jain
 [Blog]: https://pratjz.wordpress.com/
 
 
-https://img.shields.io/badge/CV-8964bd?style=for-the-badge
-minutemailer&logoColor=white
 [<img align="left" alt="linkedin | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="twitter | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
 [<img align="left" alt="personal page | Website" width="30px" src="https://pic.onlinewebfonts.com/svg/img_529063.png" />][Blog]
