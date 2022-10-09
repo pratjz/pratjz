@@ -7,12 +7,11 @@
 
 👋 Hi, I am Prateek Jain
 
-I’m a Lead Researcher Quantum AI at Fractal Analytics India. I earned my Masters in quantum computation and quantum information at the Universidad Politécnica de Madrid. I am an inquisitive person with lifelong passion for Science. Currently focusing & researching with Quantum Computing Technologies & Algorithms, Focusing on intersection of Quantum Computing & Artificial Intelligence. It is fascinating to ponder on the greatest questions of our age and catch a glimpse of how the world would look like in the future.
+- I’m a Lead Researcher Quantum AI at Fractal Analytics India. I earned my Masters in quantum computation and quantum information at the Universidad Politécnica de Madrid.
+👀 I am an inquisitive person with lifelong passion for Science. Currently focusing & researching with Quantum Computing Technologies & Algorithms, Focusing on intersection of Quantum Computing & Artificial Intelligence. It is fascinating to ponder on the greatest questions of our age and catch a glimpse of how the world would look like in the future.
 
-👀 I’ve a great interest in quantum technologies in general and quantum computation in particular. I worked on quantum information foundations, multipartite entanglement, and particle physics. Now I’m focused on discerning near-term opportunities of quantum computation and the synergies between quantum physics and artificial intelligence. I’m currently working on Noisy-Intermediate Scale Quantum (NISQ) algorithms and high-dimensional quantum computation.
-
-• Researching & working with Quantum Computing AI & ML algorithms & architectures.
-• Designed complex Analytics, AI/ML Solutions, lead, worked with highly engaged cross functional teams.
+- Researching & working with Quantum Computing AI & ML algorithms & architectures.
+- Designed complex Analytics, AI/ML Solutions, lead, worked with highly engaged cross functional teams.
 
 
 [twitter]: https://twitter.com/pratjz
