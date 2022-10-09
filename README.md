@@ -10,6 +10,7 @@
 
 [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pratjz/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/pratjz?label=Follow&style=social)](https://twitter.com/pratjz)
+
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://pratjz.wordpress.com/)
 
 
