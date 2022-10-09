@@ -8,14 +8,10 @@
 - Designed complex Analytics, AI/ML Solutions, lead, worked with highly engaged cross functional teams.
 
 
-[twitter]: https://twitter.com/pratjz
-[linkedin]: https://www.linkedin.com/in/pratjz/
-[Blog]: https://pratjz.wordpress.com/
-
-
 [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pratjz/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/pratjz?label=Follow&style=social)](https://twitter.com/pratjz)
-[![Blog Follow](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://pratjz.wordpress.com/)
+[![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://pratjz.wordpress.com/)
+
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=pratjz)
 ![GitHub followers](https://img.shields.io/github/followers/pratjz?style=social)
