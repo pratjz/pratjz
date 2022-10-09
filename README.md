@@ -13,6 +13,7 @@
 
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://pratjz.wordpress.com/)
 
+[![Linkedin Follow](https://img.shields.io/Linkedin/follow/pratjz?label=Follow&style=social)](https://www.linkedin.com/in/pratjz/)
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=pratjz)
 ![GitHub followers](https://img.shields.io/github/followers/pratjz?style=social)
