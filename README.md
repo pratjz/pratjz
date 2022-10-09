@@ -13,12 +13,7 @@
 [Blog]: https://pratjz.wordpress.com/
 
 
-
-<p align=”center”>
-<a href=”https://www.linkedin.com/in/pratjz/”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
-</p>
+![Linkedin Follow](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pratjz/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/pratjz?label=Follow&style=social)](https://twitter.com/pratjz)
 [![Blog Follow](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://pratjz.wordpress.com/)
 
