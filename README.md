@@ -2,9 +2,9 @@
 <h2 align="center">Hi, I'm Prateek Jain<img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
  
 ![Linkedin Follow](https://img.shields.io/badge/LinkedIn-905-blue?style=social&logo=linkedin)
-![Profile Visits](https://komarev.com/ghpvc/?username=MonitSharma)
-![GitHub followers](https://img.shields.io/github/followers/MonitSharma?style=social)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{MonitSharma}1212%2Fhit-counter)
+![Profile Visits](https://komarev.com/ghpvc/?username=pratjz)
+![GitHub followers](https://img.shields.io/github/followers/pratjz?style=social)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{pratjz}1212%2Fhit-counter)
 
 <h2 align="center"><img src="https://github.com/MonitSharma/MonitSharma/blob/main/giphy.gif"></h2>
 
