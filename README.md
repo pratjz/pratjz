@@ -10,7 +10,8 @@
 
 [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pratjz/)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-%231DA1F2.svg?flat&logo=Twitter&logoColor=white)](https://twitter.com/pratjz)
-[![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)](https://pratjz.wordpress.com/)\
+[![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)](https://pratjz.wordpress.com/)  
+
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=pratjz)
 ![GitHub followers](https://img.shields.io/github/followers/pratjz?style=social)
