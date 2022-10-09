@@ -12,6 +12,5 @@
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)](https://pratjz.wordpress.com/)  
 
 
-![Profile Visits](https://komarev.com/ghpvc/?username=pratjz)
 ![GitHub followers](https://img.shields.io/github/followers/pratjz?style=social)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{pratjz}1212%2Fhit-counter)
