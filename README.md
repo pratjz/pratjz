@@ -1,6 +1,4 @@
-<h2>About me</h2>
-
-👋 Hi, I am Prateek
+### 👋 Hi, I am Prateek
 
 - I’m a Lead Researcher Quantum AI at Fractal Analytics India. I earned my Masters in quantum computation and quantum information at the Universidad Politécnica de Madrid.
 - 👀 I am an inquisitive person with lifelong passion for Science. Currently focusing & researching with Quantum Computing Technologies & Algorithms, Focusing on intersection of Quantum Computing & Artificial Intelligence. 
@@ -13,6 +11,9 @@
 [twitter]: https://twitter.com/pratjz
 [linkedin]: https://www.linkedin.com/in/pratjz/
 [Blog]: https://pratjz.wordpress.com/
+
+---
+[![Twitter Follow](https://img.shields.io/twitter/follow/pratjz?label=Follow&style=social)](https://twitter.com/pratjz)
 
 
 [<img align="left" alt="linkedin | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
