@@ -1,6 +1,6 @@
 ### 👋 Hi, I am Prateek
 
-* Hope you are doing awesome, thanks for visiting by *
+*Hope you are doing awesome, thanks for visiting by*
 - 👀 An inquisitive person with lifelong passion for Science. Currently focusing & researching with Quantum Computing Technologies & Algorithms, Focusing on intersection of Quantum Computing & Artificial Intelligence. 
 - ✨ It is fascinating to ponder on greatest questions of our age and catch a glimpse of how the world would look like in the future.
 - 📝 Researching & working with Quantum Computing AI & ML algorithms & architectures.
