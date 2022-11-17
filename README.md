@@ -8,7 +8,11 @@
 - 🔭 Building a framework for Quantum machine Learning for Life Sciences & Finance Industry.
 - Designed complex Analytics, AI/ML Solutions, lead, worked with highly engaged cross functional teams.
 
-[LinkedIn](https://www.linkedin.com/in/pratjz/) &nbsp; [Google Scholar](https://scholar.google.com/citations?user=xP975D0AAAAJ&hl=en) &nbsp; [Researchgate](https://www.researchgate.net/profile/Prateek-Jain-49) &nbsp; [Twitter](https://twitter.com/pratjz) &nbsp; [Blog](https://pratjz.wordpress.com/)
+[LinkedIn](https://www.linkedin.com/in/pratjz/) &nbsp; 
+[Google Scholar](https://scholar.google.com/citations?user=xP975D0AAAAJ&hl=en) &nbsp; 
+[Researchgate](https://www.researchgate.net/profile/Prateek-Jain-49) &nbsp; 
+[Twitter](https://twitter.com/pratjz) &nbsp; 
+[Blog](https://pratjz.wordpress.com/)
 
 <!--
 [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pratjz/)
@@ -16,5 +20,5 @@
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)](https://pratjz.wordpress.com/)  
 -->
 
-![GitHub followers](https://img.shields.io/github/followers/pratjz?style=social)
+![GitHub followers](https://img.shields.io/github/followers/pratjz?style=social)  &nbsp;
 ![Stars](https://img.shields.io/github/stars/pratjz?style=social)
