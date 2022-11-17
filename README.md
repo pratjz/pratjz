@@ -8,7 +8,7 @@
 - 🔭 Building a framework for Quantum machine Learning for Life Sciences & Finance Industry.
 - Designed complex Analytics, AI/ML Solutions, lead, worked with highly engaged cross functional teams.
 
-[LinkedIn](https://www.linkedin.com/in/pratjz/),  [Google Scholar](https://scholar.google.com/citations?user=xP975D0AAAAJ&hl=en),  [Researchgate](https://www.researchgate.net/profile/Prateek-Jain-49),  [Twitter](https://twitter.com/pratjz),  [Blog](https://pratjz.wordpress.com/)
+[LinkedIn](https://www.linkedin.com/in/pratjz/)&nbsp;&nbsp;[Google Scholar](https://scholar.google.com/citations?user=xP975D0AAAAJ&hl=en),  [Researchgate](https://www.researchgate.net/profile/Prateek-Jain-49),  [Twitter](https://twitter.com/pratjz),  [Blog](https://pratjz.wordpress.com/)
 
 <!--
 [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pratjz/)
