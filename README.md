@@ -1,4 +1,4 @@
-### 👋 Hi, I am Prateek
+### 👋 Hi there,
 
 *Hope you are doing awesome, thank you for visiting by*
 
