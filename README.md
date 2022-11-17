@@ -2,7 +2,7 @@
 
 *Hope you are doing awesome, thank you for visiting by*
 
-- 👀 An inquisitive person with lifelong passion for Science. Currently researching with Quantum Computing Algorithms on intersection of QC & AI. 
+- 👀 An inquisitive person with lifelong passion for Science, currently researching on intersections of Quantum Computing & Artificial Intelligence. 
 - 📝 Researching & working with Quantum Computing AI & ML algorithms & architectures.
 - 🔭 Building a framework for Quantum machine Learning for Life Sciences & Finance Industry.
 - 🌱 Designed complex Analytics, AI/ML Solutions, lead, worked with highly engaged cross functional teams.
