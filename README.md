@@ -2,11 +2,11 @@
 
 *Hope you are doing awesome, thank you for visiting by*
 
-- 👀 An inquisitive person with lifelong passion for Science. Currently focusing & researching with Quantum Computing Technologies & Algorithms, Focusing on intersection of Quantum Computing & Artificial Intelligence. 
-- ✨ It is fascinating to ponder on greatest questions of our age and catch a glimpse of how the world would look like in the future.
+- 👀 An inquisitive person with lifelong passion for Science. Currently researching with Quantum Computing Algorithms on intersection of QC & Artificial Intelligence. 
 - 📝 Researching & working with Quantum Computing AI & ML algorithms & architectures.
 - 🔭 Building a framework for Quantum machine Learning for Life Sciences & Finance Industry.
-- Designed complex Analytics, AI/ML Solutions, lead, worked with highly engaged cross functional teams.
+- 🌱 Designed complex Analytics, AI/ML Solutions, lead, worked with highly engaged cross functional teams.
+- ✨ It is fascinating to ponder on greatest questions of our age and catch a glimpse of how the world would look like in the future.
 
 [LinkedIn](https://www.linkedin.com/in/pratjz/) &nbsp; 
 [Google Scholar](https://scholar.google.com/citations?user=xP975D0AAAAJ&hl=en) &nbsp; 
