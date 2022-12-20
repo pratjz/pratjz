@@ -1,4 +1,4 @@
-### 👋 Hi there,
+### 👋 Hi There,
 
 *Hope you are doing awesome, thank you for visiting by*
 
