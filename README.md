@@ -20,5 +20,5 @@
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)](https://pratjz.wordpress.com/)  
 -->
 
-![GitHub followers](https://img.shields.io/github/followers/pratjz?style=social)  &nbsp;
+<!--![GitHub followers](https://img.shields.io/github/followers/pratjz?style=social)  &nbsp;-->
 ![Stars](https://img.shields.io/github/stars/pratjz?style=social)
