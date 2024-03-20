@@ -25,4 +25,3 @@
 
 <a href="https://app.daily.dev/pratjz"><img src="https://api.daily.dev/devcards/v2/piqWGCXkN8oimbh9U6BPh.png?type=default&r=45v" width="356" alt="Prateek Jain's Dev Card"/></a>
 <img align="right" width="39%" height="30%" src="https://github-readme-stats.vercel.app/api?username=pratjz&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img align="right" width="36%" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratjz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide_border=true"/>
