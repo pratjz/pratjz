@@ -4,7 +4,7 @@
 
 - 👀 An inquisitive person with lifelong passion for Science, researching on intersections of Quantum Computing & AI. 
 - 📝 Researching & working with Quantum Computing AI & ML algorithms & architectures.
-- 🔭 Building a framework for Quantum machine Learning...Complexity Theory, Quantum Computing and some pure math & ML topics.
+- 🔭 Building research framework for...Complexity Theory, Quantum Computing and some pure math & ML topics.
 - 🌱 Designed complex Analytics, AI/ML Solutions, lead, worked with highly engaged cross functional teams.
 - ✨ It is fascinating to ponder on greatest questions of our age and catch a glimpse of how the world would look like in the future.
 
