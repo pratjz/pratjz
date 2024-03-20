@@ -24,4 +24,4 @@
 ![Stars](https://img.shields.io/github/stars/pratjz?style=social)
 
 <a href="https://app.daily.dev/pratjz"><img src="https://api.daily.dev/devcards/v2/piqWGCXkN8oimbh9U6BPh.png?type=default&r=45v" width="356" alt="Prateek Jain's Dev Card"/></a>
-<img align="left" width="49%" height="40%" src="https://github-readme-stats.vercel.app/api?username=sohamch08&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img align="right" width="39%" height="30%" src="https://github-readme-stats.vercel.app/api?username=pratjz&show_icons=true&theme=tokyonight&hide_border=true"/>
